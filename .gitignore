@@ -1,0 +1,13 @@
+# Ignore WordPress content
+wp-data/
+db-data/
+
+# Ignore logs
+*.log
+logs/
+
+# Ignore Docker container configs
+.docker/
+
+# Ignore environment files
+.env
