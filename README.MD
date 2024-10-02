@@ -116,6 +116,7 @@ Para fazer o deploy do WordPress para o ambiente de produção, os arquivos pers
 
 Esse projeto é privado e sua distribuição não é permitida sem autorização.
 Desevolvido por Rafael Joelson - Bratti Marketing Digital
+rafaeljoelsonifsudeste@gmail.com
 
 ---
 
